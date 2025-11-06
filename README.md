@@ -30,7 +30,6 @@ This repository showcases a 'complete manual testing project' that covers the en
 
 👤 Author / Contact
 
-A.B.M. Mahmudul Hasan (Soumik) 
-
+A.B.M. Mahmudul Hasan (Soumik)  
 📧 Email: soumikhasan000@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/a-b-m-mahmudul-hasan-37907133b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+🔗 LinkedIn: [www.linkedin.com/in/a-b-m-mahmudul-hasan-soumik-37907133b](https://www.linkedin.com/in/a-b-m-mahmudul-hasan-soumik-37907133b)
